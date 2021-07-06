@@ -1,5 +1,5 @@
 "Neovim theme built on top of spacegray.vim for LunarVim by https://github.com/ChristianChiarulli
-"and is available here: https://github.com/gnmearacaun/spacegray-trans.vim
+"Obtained at https://github.com/gnmearacaun/spacegray-trans.vim
 
 highlight SpecialKey guifg=#5486C0 guibg=NONE guisp=NONE gui=bold blend=NONE
 highlight Title guifg=#5486C0 guibg=NONE guisp=NONE gui=bold blend=NONE
