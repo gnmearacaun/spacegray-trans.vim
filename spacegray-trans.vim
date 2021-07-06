@@ -1,5 +1,7 @@
-"Theme built with Lush.nvim on top of spacegray.vim by https://github.com/ChristianChiarulli
+"Theme based on spacegray.vim by https://github.com/ChristianChiarulli
+"Built with Lush.nvim for LunarVim https://github.com/ChristianChiarulli/LunarVim 
 "Modified by and obtained from https://github.com/gnmearacaun/spacegray-trans.vim
+
 highlight StatusLineLspDiagnosticsHint guifg=#4DC1FF guibg=#292929 guisp=NONE gui=NONE blend=NONE
 highlight BufferInactive guifg=#858585 guibg=#292929 guisp=NONE gui=NONE blend=NONE
 highlight markdownCode guifg=#C67158 guibg=NONE guisp=NONE gui=NONE blend=NONE
