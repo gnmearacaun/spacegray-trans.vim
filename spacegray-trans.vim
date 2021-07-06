@@ -1,5 +1,5 @@
 "Neovim colorscheme built on top of spacegray.vim for LunarVim, both by https://github.com/ChristianChiarulli
-"Obtained at https://github.com/gnmearacaun/spacegray-trans.vim
+"Obtained from https://github.com/gnmearacaun/spacegray-trans.vim
 
 highlight SpecialKey guifg=#5486C0 guibg=NONE guisp=NONE gui=bold blend=NONE
 highlight Title guifg=#5486C0 guibg=NONE guisp=NONE gui=bold blend=NONE
