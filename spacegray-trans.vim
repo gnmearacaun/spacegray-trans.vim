@@ -13,7 +13,7 @@ highlight TabLine guifg=#C7C8D1 guibg=#292929 guisp=NONE gui=NONE blend=NONE
 highlight TelescopeSelection guifg=#64A6C4 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight NvimTreeGitDelete guifg=#93151B guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight! link TSMethod Function
-highlight Identifier guifg=#C7C8D1 guibg=NONE guisp=NONE gui=NONE blend=NONE
+"highlight Identifier guifg=#C7C8D1 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight NvimTreeRootFolder guifg=#3B6AA0 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight GitSignsChange guifg=#0C7D9D guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight! link TSLabel Label
