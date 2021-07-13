@@ -154,7 +154,7 @@ highlight DiffviewVertSplit guifg=#858585 guibg=#212121 guisp=NONE gui=NONE blen
 highlight NvimTreeGitStaged guifg=#5A7D0C guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight! link NonText EndOfBuffer
 highlight NvimTreeSpecialFile guifg=#64A6C4 guibg=NONE guisp=NONE gui=NONE blend=NONE
-highlight SpecialComment guifg=#858585 guibg=NONE guisp=NONE gui=NONE blend=NONE
+highlight SpecialComment guifg=#b8b8b8 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight! link Exception Keyword
 highlight PreProc guifg=#64A6C4 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight! link markdownUrl mkdLink
@@ -209,7 +209,7 @@ highlight SpellCap guifg=#C7C8D1 guibg=NONE guisp=#EEBA59 gui=underline blend=NO
 highlight GitSignsAdd guifg=#5A7D0C guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight LspDiagnosticsFloatingInformation guifg=#FFCC66 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Special guifg=#C67158 guibg=NONE guisp=NONE gui=NONE blend=NONE
-highlight Comment guifg=#858585 guibg=NONE guisp=NONE gui=italic blend=NONE
+highlight Comment guifg=#b8b8b8 guibg=NONE guisp=NONE gui=italic blend=NONE
 highlight Folded guifg=#858585 guibg=#292929 guisp=NONE gui=NONE blend=NONE
 highlight! link TSStringEscape Character
 highlight! link markdownLinkDelimiter Delimiter
