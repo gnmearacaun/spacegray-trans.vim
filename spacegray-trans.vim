@@ -210,7 +210,7 @@ highlight GitSignsAdd guifg=#5A7D0C guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight LspDiagnosticsFloatingInformation guifg=#FFCC66 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Special guifg=#C67158 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Comment guifg=#a1a1a1 guibg=NONE guisp=NONE gui=italic blend=NONE
-highlight Folded guifg=#858585 guibg=#292929 guisp=NONE gui=NONE blend=NONE
+highlight Folded guifg=#a1a1a1 guibg=#292929 guisp=NONE gui=NONE blend=NONE
 highlight! link TSStringEscape Character
 highlight! link markdownLinkDelimiter Delimiter
 highlight LspDiagnosticsDefaultWarning guifg=#FF8800 guibg=NONE guisp=NONE gui=NONE blend=NONE
